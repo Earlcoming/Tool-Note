@@ -1,1 +1,1 @@
-# npm yarn git webpack note
+# npm yarn git note
